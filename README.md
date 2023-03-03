@@ -59,36 +59,43 @@ Burada tekerlemenin baş harfi comboBox  ile seçilebilir. Aynı zamanda karış
 
 Aşağıda bulunan butonların tekerlemeyi doğru söyleyip söyleyemediği durumlarda kullanılması gerekmektedir. Basılan butona göre sesli tepkiler verilmektedir. 
  
-Kelime Söyleme: 
-
-Kelime söyleme ekranı da tekerleme söyleme ekranının tüm özelliklerine sahiptir. Aynı zamanda burada kelimenin seslendirmesi ve görseli de bulunmaktadır. Seslendirmeyi dinlemek için ilgili kelimeye ya da kelimenin yanındaki hoperlör resmine tıklanması gerekmektedir. 
- 
-Egzersiz Yapma: 
-
-Egzersiz yap yazısına tıklandığında egzersiz türleri çıkmaktadır. Burada istediğimiz egzersiz türünü seçtikten sonra ilgili egzersizler tekerleme söyleme ekranında olduğu gibi karşımıza çıkmaktadır. Butonların üstüne gelindiğinde rengi değişmektedir.  
-  
- 
-  
-   
-Fıkra Okuma: 
-
-Fıkra okuma ekranı da tekerleme söyleme ekranıyla aynı özelliklere sahiptir. Fıkralarda herhangi bir kısıtlama yoktur. Fıkralar karışık bir şekilde gelmektedir. 
-  
- 
- 
-Uygulamadan Çıkış: 
-
-Uygulamadan çıkarken uyarı verilmektedir. Verilen uyarıda gün boyunca uygulamada geçirilen süre yer almaktadır. Kullanıcıya uygulamadan çıkmak isteyip istemediği sorulmaktadır. Verilen cevaba göre işlem yapılmaktadır. 
-  
-
-
-
+## Kelime Söyleme: 
 
 
 ![alt text](https://i.hizliresim.com/pwvmwo0.png)
 
+
+Kelime söyleme ekranı da tekerleme söyleme ekranının tüm özelliklerine sahiptir. Aynı zamanda burada kelimenin seslendirmesi ve görseli de bulunmaktadır. Seslendirmeyi dinlemek için ilgili kelimeye ya da kelimenin yanındaki hoparlör resmine tıklanması gerekmektedir. 
+ 
+## Egzersiz Yapma: 
+
+
 ![alt text](https://i.hizliresim.com/melco3e.png)
+
 
 ![alt text](https://i.hizliresim.com/s6id34o.png)
 
+
+Egzersiz yap yazısına tıklandığında egzersiz türleri çıkmaktadır. Burada istediğimiz egzersiz türünü seçtikten sonra ilgili egzersizler tekerleme söyleme ekranında olduğu gibi karşımıza çıkmaktadır. Butonların üstüne gelindiğinde rengi değişmektedir.  
+   
+## Fıkra Okuma: 
+
+Fıkra okuma ekranı da tekerleme söyleme ekranıyla aynı özelliklere sahiptir. Fıkralarda herhangi bir kısıtlama yoktur. Fıkralar karışık bir şekilde gelmektedir. 
+  
+
 ![alt text](https://i.hizliresim.com/mcwinyx.png)
+ 
+ 
+## Uygulamadan Çıkış: 
+
+
+![alt text](https://i.hizliresim.com/9p223ic.png)
+
+
+Uygulamadan çıkarken uyarı verilmektedir. Verilen uyarıda gün boyunca uygulamada geçirilen süre yer almaktadır. Kullanıcıya uygulamadan çıkmak isteyip istemediği sorulmaktadır. Verilen cevaba göre işlem yapılmaktadır. 
+
+
+
+
+
+
