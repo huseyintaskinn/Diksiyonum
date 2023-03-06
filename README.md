@@ -1,6 +1,6 @@
 # Diksiyon'um
 
-Diksiyon'um, konuşma bozukluğu yaşayan bireylerin konuşmalarında iyileştirme sağlamayı amaçladığımız bir uygulamadır. Uygulama içerisinde tekerlerleme, kelime telaffuzu, çeşitli egzersizler ve fıkra gibi okuma metinleri yer almaktadır. Uygulama içerisinde kullanıcıların doğru telaffuzları duyabileceği ve sesli geri dönüt alabilecekleri butonlar bulunmaktadır.
+Diksiyon'um, konuşma bozukluğu yaşayan bireylerin konuşmalarında iyileştirme sağlamayı amaçladığımız bir uygulamadır. Uygulama içerisinde tekerlerleme, kelime telaffuzu, çeşitli egzersizler ve fıkra gibi okuma metinleri yer almaktadır. Uygulama içerisinde kullanıcıların doğru telaffuzları duyabileceği ve sesli geri dönüt alabilecekleri butonlar bulunmaktadır. Uygulamada yer alan alanlar öncesinde yapmış olduğumuz literatür çalışması ve yazılım incelemesi sonucunda konuşma bozukluğunda iyileştirme sağlayabilecek alanlardan oluşmaktadır.
 
 **Hazırlayanlar: Hüseyin Taşkın, Yalçın Arslan**
 
